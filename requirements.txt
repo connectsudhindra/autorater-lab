@@ -1,0 +1,2 @@
+litellm>=1.40
+faker>=20.0  # optional, used by generate_synthetic.py

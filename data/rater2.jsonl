@@ -1,0 +1,24 @@
+{"id": "m01", "human": {"grounded": 1, "helpful": 5, "failure": "none"}}
+{"id": "m02", "human": {"grounded": 0, "helpful": 1, "failure": "contradiction"}}
+{"id": "m03", "human": {"grounded": 1, "helpful": 5, "failure": "none"}}
+{"id": "m04", "human": {"grounded": 0, "helpful": 2, "failure": "fabricated_fact"}}
+{"id": "m05", "human": {"grounded": 1, "helpful": 5, "failure": "none"}}
+{"id": "m06", "human": {"grounded": 0, "helpful": 2, "failure": "unsupported_claim"}}
+{"id": "m07", "human": {"grounded": 1, "helpful": 1, "failure": "evasive"}}
+{"id": "m08", "human": {"grounded": 1, "helpful": 5, "failure": "none"}}
+{"id": "m09", "human": {"grounded": 0, "helpful": 1, "failure": "fabricated_fact"}}
+{"id": "m10", "human": {"grounded": 0, "helpful": 3, "failure": "unsupported_claim", "note": "heavy rain is a quality judgment, not in context"}}
+{"id": "m11", "human": {"grounded": 1, "helpful": 5, "failure": "none"}}
+{"id": "m12", "human": {"grounded": 0, "helpful": 1, "failure": "contradiction"}}
+{"id": "m13", "human": {"grounded": 1, "helpful": 5, "failure": "none"}}
+{"id": "m14", "human": {"grounded": 0, "helpful": 1, "failure": "contradiction"}}
+{"id": "t01", "human": {"grounded": 1, "helpful": 4, "failure": "none"}}
+{"id": "t02", "human": {"grounded": 0, "helpful": 2, "failure": "unsupported_claim"}}
+{"id": "t03", "human": {"grounded": 1, "helpful": 5, "failure": "none"}}
+{"id": "t04", "human": {"grounded": 1, "helpful": 5, "failure": "none"}}
+{"id": "t05", "human": {"grounded": 0, "helpful": 1, "failure": "policy_violation"}}
+{"id": "t06", "human": {"grounded": 1, "helpful": 5, "failure": "none"}}
+{"id": "t07", "human": {"grounded": 0, "helpful": 1, "failure": "contradiction"}}
+{"id": "t08", "human": {"grounded": 1, "helpful": 4, "failure": "none", "note": "personal item is standard on most airlines"}}
+{"id": "t09", "human": {"grounded": 1, "helpful": 5, "failure": "none"}}
+{"id": "t10", "human": {"grounded": 0, "helpful": 2, "failure": "unsupported_claim"}}
